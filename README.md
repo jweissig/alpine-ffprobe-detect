@@ -19,7 +19,7 @@ docker push jweissig/alpine-ffprobe-detect
 
 ```sh
 docker pull jweissig/alpine-ffprobe-detect
-docker run -it -p 5000:5000 --rm jweissig/alpine-ffprobe-detect
+docker run -p 5000:5000 --rm jweissig/alpine-ffprobe-detect
 ```
 
 ##### Connect to localhost
