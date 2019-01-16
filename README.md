@@ -2,6 +2,8 @@
 
 Extract media metadata to JSON format using FFmpeg
 
+![screenshot](https://raw.githubusercontent.com/jweissig/alpine-ffprobe-detect/master/templates/screenshot.png)
+
 ##### Build go app for linux (from mac)
 
 ```sh
